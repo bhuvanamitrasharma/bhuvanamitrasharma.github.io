@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
   <h1>Bhuvanamitra S</h1>
   <p><strong>Geospatial Data Analyst | Team Lead </strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><em>Turning GeoData to Geo-enabled Insights</em></p>
 </div>
 
 ---
@@ -32,15 +32,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Geospatial Manager and Remote Sensing Specialist with 6+ years of hands-on experience delivering end-to-end GIS solutions, satellite data analytics, and spatial intelligence products across agriculture, environmental monitoring, and aviation domains. Proven ability to build and lead cross-functional teams, manage full project lifecycles using Agile methodologies, and translate complex spatial data into actionable client deliverables. Experienced in QGIS, Python assisted automation, and multi-spectral satellite analysis. Adept at stakeholder coordination, sprint planning, delivery tracking, and documentation using Jira and Confluence. Track record of driving GIS product development, quality 
+assurance, and on-time delivery across multidisciplinary programs. 
 
 </div>
 
@@ -66,12 +59,11 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
+    - QGIS,  Google Earth Engine
     - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Multispectral and High Resolution Analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :material-code-braces:{ .lg .middle } **Programming (AI Assisted)**
 
     ---
 
@@ -80,14 +72,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
@@ -106,11 +90,11 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **GIS for Aviation**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Obstacle Analysis and eTOD as per ICAO Standards
+    - Aerodrome Mapping Database
+    - Flight Procedure Design Tool development
 </div>
 
 
