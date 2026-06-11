@@ -19,21 +19,21 @@ theme:
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/satellite-variant
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: grey
-      accent: grey
+      primary: brown
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: black
-      accent: black
+      primary: brown
+      accent: light-green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -42,8 +42,8 @@ theme:
     - navigation.top             # Back-to-top button when scrolling up
     - content.code.copy          # Copy button on all code blocks
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Inter
+    code: JetBrains Mono
 
 extra_css:
   - assets/css/extra.css
